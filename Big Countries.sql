@@ -24,4 +24,4 @@ For example, according to the above table, we should output:
 
 SELECT name, population, area
 FROM World
-Where area > 3000000 or population > 2500000
+Where area > 3000000 or population > 2500000;
